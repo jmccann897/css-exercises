@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: rgb(244, 105, 184);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    background-color: rgb(59, 59, 223);
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(144, 241, 144);
+    font-weight: bold;
+    font-size: 24px;
+}
